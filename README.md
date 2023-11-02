@@ -2,7 +2,7 @@
   
 * npm i
   
-* upload ./data/seed/images to cld (keep folder structure on cld)
+* upload ./data/seed/images/* to cld (keep folder structure on cld)
 
     npm run cld:upload
   
